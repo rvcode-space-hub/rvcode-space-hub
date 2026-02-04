@@ -35,50 +35,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔹 **CodeYaan — Cloud-Ready LMS**
-- Enterprise-level LMS with role-based authentication for Admin/Staff/Students  
-- Integrated AWS S3, secure APIs, optimized backend  
-- **Tech:** Node.js, Next.js, MongoDB, AWS  
-🔗 Live: https://codeyaan.netlify.app/  
-🔗 GitHub: *(add repo link)*  
-
----
-
-### 🔹 **LabXCode — IT Service Platform**
-- Full-stack web platform with dashboards, API integrations, secure modules  
-- Backend on Render + frontend on Netlify  
-- **Tech:** Node.js, Next.js, PostgreSQL  
-🔗 Live: https://labxcode.netlify.app/  
-🔗 GitHub: *(add repo link)*  
-
----
-
-### 🔹 **Hospital Management System (Backend Project)**
-- JWT Auth, RBAC, doctor-patient modules, scheduling & database optimization  
-- **Tech:** NestJS, Node.js, PostgreSQL  
-🔗 GitHub: https://github.com/rvcode-space-hub/live-projects-hub/tree/master/Healthcare-Management-System  
-
----
-
-## 📁 More Projects
-
-<details>
-  <summary><b>Click to View Full Project List</b></summary>
-
-| Project | Description | Tech Stack | Link |
-|--------|-------------|------------|------|
-| **LMS System** | Admin/Staff/Student LMS with schedule & course mgmt. | Node.js, Express, Sequelize, MySQL | [🔗 Repo](https://github.com/rvcode-space-hub/lms) |
-| **Wallet API** | Wallet transactions, debit/credit, JWT security. | Node.js, Express, MySQL | [🔗 Repo](https://github.com/rvcode-space-hub/wallet-api) |
-| **ERP College System** | Manage students, staff, attendance, reports. | Node.js, MongoDB | [🔗 Repo](https://github.com/rvcode-space-hub/erp-college) |
-| **Muzi App** | Music streaming UI with YouTube V3 API. | TS, Node.js, React | [🔗 Repo](https://github.com/rvcode-space-hub/muzi) |
-| **Algo Repo** | DSA practice questions & revision notes. | C++ | [🔗 Repo](https://github.com/rvcode-space-hub/algo) |
-
-</details>
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -106,6 +62,6 @@
 
 ### 📫 Contact Me  
 - **LinkedIn:** https://www.linkedin.com/in/ravishankarsinghsde  
-- **Portfolio:** Coming soon  
-- **Email:** ravishankarsingh.backend@gmail.com  
+- **Portfolio:**https://ravitechcreation.netlify.app/
+- **Email:** ravishankar.singh.backend@gmail.com  
 
