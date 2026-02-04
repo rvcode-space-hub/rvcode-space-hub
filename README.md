@@ -56,12 +56,9 @@
   <a href="https://github.com/rvcode-space-hub" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="https://ravitechcreation.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-purple?style=for-the-badge" alt="Portfolio Badge">
+</a>
+
 </p>
-
----
-
-### 📫 Contact Me  
-- **LinkedIn:** https://www.linkedin.com/in/ravishankarsinghsde  
-- **Portfolio:**https://ravitechcreation.netlify.app/
-- **Email:** ravishankar.singh.backend@gmail.com  
 
