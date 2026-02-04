@@ -35,15 +35,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=rvcode-space-hub&show_icons=true&theme=tokyonight" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rvcode-space-hub&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🤝 Let’s Connect
 
 <p align="center">
