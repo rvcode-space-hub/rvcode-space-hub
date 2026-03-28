@@ -28,34 +28,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔥 LMS Backend System (Microservices Architecture)
-
-**What:**  
-A scalable Learning Management System with role-based access (Admin, Staff, Student)
-
-**How:**  
-- Built using Node.js, Express, and modular architecture  
-- Implemented JWT authentication & RBAC for secure access control  
-- Designed using microservices architecture with API Gateway  
-- Integrated AWS S3 for media storage and file handling  
-
-**Core Modules:**
-- ⚡ **API Gateway**  
-  → Centralized request routing, Axios instance, interceptors, and global error handling  
-
-- ☁️ **Media Service**  
-  → File upload service using Multer and AWS S3 integration  
-
-- 🔐 **Auth & User Service**  
-  → Authentication, authorization, and role management  
-
-**Impact:**  
-- Improved scalability and maintainability using microservices  
-- Reduced code duplication via centralized API handling  
-- Enabled secure and efficient multi-role system  
-
 ## 📊 GitHub Stats
 
 <p align="center">
