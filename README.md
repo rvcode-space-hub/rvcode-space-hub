@@ -1,19 +1,21 @@
-<!-- 🔥 Compact Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=140&section=header&text=Ravi%20Shankar%20Singh&fontSize=32&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0033,100:4a00e0&height=200&section=header&text=Hi%20I'm%20Ravi%20Shankar%20Singh&fontSize=32&fontColor=ffffff&animation=twinkling" />
 </p>
 
-<!-- 👋 Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3500&color=0072FF&center=true&vCenter=true&width=500&lines=Backend+Developer;Node.js+%7C+NestJS+%7C+AWS;Building+Scalable+Systems" />
+  <b>
+    🚀 Passionate about building scalable backend systems, secure APIs, cloud architectures,<br/>
+    and full-stack applications using modern technologies.
+  </b>
 </p>
 
-<!-- 👀 Visitor Badge -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rvcode-space-hub&label=Profile%20Views&color=0072ff&style=flat" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=3500&pause=1000&color=1B1B63&center=true&vCenter=true&width=600&lines=Backend+Developer;Node.js+%7C+Express+%7C+NestJS;MongoDB+%7C+PostgreSQL+%7C+SQL;AWS+%7C+Microservices;Building+Scalable+Systems" />
 </p>
 
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rvcode-space-hub&label=Profile%20Views&color=0BA6E0&style=flat" />
+</p>
 
 ## ✨ About Me
 - 💻 Full-Stack Developer with strong **backend specialization** in Node.js & NestJS.  
@@ -23,16 +25,6 @@
 - ☁️ Cloud deployment experience using **AWS EC2, S3, Docker, Render, Netlify, Vercel**.  
 - 📚 Actively learning **DSA, System Design, and distributed backend concepts**.  
 - 🎯 Goal: Backend Engineer role in a fast-growing tech or product-based company.
-
----
-
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://stats.vercel.app/api?username=rvcode-space-hub&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://stats.vercel.app/api/top-langs/?username=rvcode-space-hub&layout=compact&theme=tokyonight" height="170"/>
-</p>
 
 ---
 
@@ -74,5 +66,8 @@
   <img src="https://img.shields.io/badge/Portfolio-purple?style=for-the-badge" alt="Portfolio Badge">
 </a>
 
+  
 </p>
+
+
 
