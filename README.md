@@ -28,6 +28,12 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rvcode-space-hub&theme=tokyonight" />
+</p>
+
 ## 🔥 Streak & Rank
 
 <p align="center">
@@ -65,9 +71,12 @@
   <a href="https://ravitechcreation.netlify.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-purple?style=for-the-badge" alt="Portfolio Badge">
 </a>
-
-  
 </p>
+
+## ⚡ Fun Fact
+
+💬 Backend > Frontend 😄  
+🚀 I love building scalable systems
 
 
 
