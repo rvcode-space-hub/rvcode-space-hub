@@ -1,11 +1,17 @@
-<h1 align="center"> Hi, I'm Ravi Shankar Singh 👋</h1>
-<h3 align="center">Full-Stack Developer (Backend Specialist — Node.js, Express, NestJS, SQL, AWS)</h3>
 
----
-
+<!-- 🔥 Animated Header -->
 <p align="center">
-  🚀 Passionate about building scalable backend systems, secure APIs, cloud architectures,  
-  and full-stack applications using modern technologies.
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=200&section=header&text=Ravi%20Shankar%20Singh&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<!-- 👋 Typing Effect -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00C6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Backend+Specialist+Node.js+%7C+NestJS;Building+Scalable+Systems;Cloud+Microservices+%7C+APIs" />
+</p>
+
+<!-- 👀 Visitor Badge -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rvcode-space-hub&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -21,19 +27,37 @@
 
 ---
 
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rvcode-space-hub&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rvcode-space-hub&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+---
+
+## 🔥 Streak & Rank
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rvcode-space-hub&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rvcode-space-hub&theme=tokyonight" />
+</p>
+
+
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,typescript,javascript,react,nextjs,tailwind,postgresql,mongodb,mysql,redis,aws,docker,git,github,postman,vercel,render" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,typescript,javascript,react,nextjs,tailwind,postgresql,mongodb,mysql,redis,aws,docker,git,github,postman" />
+</p>
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rvcode-space-hub&theme=tokyo-night&hide_border=true" />
 </p>
 
-``Backend`` – Node.js, Express.js, NestJS, REST APIs, Microservices, JWT, RBAC  
-``Frontend`` – React.js, Next.js, JavaScript, HTML5, CSS3, Tailwind  
-``Databases`` – PostgreSQL, MongoDB, MySQL, Redis  
-``Cloud & DevOps`` – AWS (EC2, S3), Docker, CI/CD, Render, Netlify, Vercel  
-``Tools`` – Git, GitHub, Postman, VS Code  
-
----
 
 ## 🤝 Let’s Connect
 
