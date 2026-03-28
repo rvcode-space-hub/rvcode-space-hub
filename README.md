@@ -1,17 +1,16 @@
-
-<!-- 🔥 Animated Header -->
+<!-- 🔥 Compact Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=200&section=header&text=Ravi%20Shankar%20Singh&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=140&section=header&text=Ravi%20Shankar%20Singh&fontSize=32&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <!-- 👋 Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00C6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Backend+Specialist+Node.js+%7C+NestJS;Building+Scalable+Systems;Cloud+Microservices+%7C+APIs" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3500&color=0072FF&center=true&vCenter=true&width=500&lines=Backend+Developer;Node.js+%7C+NestJS+%7C+AWS;Building+Scalable+Systems" />
 </p>
 
 <!-- 👀 Visitor Badge -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rvcode-space-hub&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=rvcode-space-hub&label=Profile%20Views&color=0072ff&style=flat" />
 </p>
 
 ---
